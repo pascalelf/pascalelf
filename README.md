@@ -14,7 +14,7 @@
 
 ### Statistics
 
-![pascalelf](https://github-readme-stats.vercel.app/api?username=pascalelf&theme=react&show_icons=true)
+![pascalelf](https://github-readme-stats.vercel.app/api?username=pascalelf&theme=default&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascalelf&layout=compact)
  
