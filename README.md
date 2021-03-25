@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💼 We are Mr. Pascal and elf.
-- 🐧 We are open-source and GNU/Linux enthusiast.
+- 🐧 We are open-source and GNU/Linux enthusiasts.
 - 🙈 We publish free and open-source software.
 
 ### Reach us 📨
